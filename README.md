@@ -10,7 +10,7 @@ A Little More About Me:
 const BahagoEdward = {
   📢lookingFor: ["Frontend developer job"];
   🔭code: ["JavaScript", "HTML/CSS"];
-  💬askMeAbout: ["Problem Solving", "Music", "Content Creation", "Music"];
+  💬askMeAbout: ["Problem Solving", "Music", "Content Creation",];
   🌱challenge: ["I hope to build my skills on other tools like React, Python"];
   ⚡funFacts: ['I am working tirelessly to be proficient in Web Development','I am available for Job offers'];
 }
